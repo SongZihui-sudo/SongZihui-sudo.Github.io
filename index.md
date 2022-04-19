@@ -7,7 +7,7 @@
 > 算法 algorithm
 
 [搜索算法总结与思考](./algorithm/搜索算法.md)   
-[Bitmap算法(C语言)](./algorithm/Bitmap算法(C语言).md)  
+[Bitmap算法(C语言)](./algorithm/Bitmap_algorithm.md)  
 [8086内存分段机制](./algorithm/8086处理器的内存分段机制.md)
 
 > 编程感悟 Programming insights
