@@ -24,9 +24,8 @@
 
 > 机械 machine 
 
-[材料力学-附录](./machine/材料力学-附录.md)  
-[材料力学-第一章绪论](./machine/材料力学-第一章.md)   
+[材料力学-复习](./machine/材料力学.md)  
 [机械原理笔记](./machine/机械原理笔记.md)  
-[材料力学-习题1](./machine/材料力学-习题1.md)
+
 
 > 下载 Download
