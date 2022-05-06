@@ -26,6 +26,6 @@
 
 [材料力学-复习](./machine/材料力学.md)  
 [机械原理笔记](./machine/机械原理笔记.md)  
-
+[Quality Management](./machine/Quality-Management.md)
 
 > 下载 Download
