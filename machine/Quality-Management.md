@@ -1,5 +1,7 @@
 # Quality Management  
 
+![img](https://user-images.githubusercontent.com/77034643/167244710-6b41911c-4024-4b4d-a7a6-b3f894c2ef64.png)
+
 # 一
 
 ## what is quality?   
@@ -226,7 +228,7 @@ on current or future projects.
 
 # Business Models with Lean StartUp Approach and Design Thinking
 
-![image-20220506210841403](../resource/image-20220506210841403.png)
+![image-20220506210841403](https://user-images.githubusercontent.com/77034643/167244769-d4dfb751-a138-432d-95dd-4fe6b28cc8bc.png)
 
 • Digitalisation raises lots of different business ideas and opportunities. • Successful making use of digitalisation involves therefore to filter out those ideas that allow for exploiting the emerging business opportunities.
 • Lean Startup Approach and Design Thinking Approach are two different ways that allow for filtering efficiently and effectively and to build a business model.
@@ -257,7 +259,7 @@ the steps for its introduction planned, and then implemented and controlled.
 The term "Integrated Management Systems" refers to the close interaction of the individual MS.
 Integrative MS connect different MS with each other
 
-![image-20220506212916369](../resource/image-20220506212916369.png)
+![image-20220506212916369](https://user-images.githubusercontent.com/77034643/167244771-ea632b40-41ab-47ee-bc1b-358444708b93.png)
 
 ### How can an IMS be described?
 
@@ -357,4 +359,8 @@ Offer personnel development measures
 ?
 
 # Safety Management System
+
+
+
+# Environmental Management System
 
