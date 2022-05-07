@@ -1,8 +1,166 @@
-# Quality Management  
+# Quality Management——质量管理
+
+## content
+
+[ONE.CheckList](#CHECKLIST)
+
+1. [Find a business model by using design thinking or lean startup](#1.Find a business model by using design thinking or lean startup)
+
+2. [Describe an lMS with the three management systems to your project.](#2. Describe an lMS with the three management systems to your project.)
+
+3. [Describe the structure of IMS](#3. Describe the structure of IMS[)
+
+4. [Quality Goals](#4. Quality Goals)
+
+5. [Model of a process-oriented QMS(according to standards](#5. Model of a process-oriented QMS(according to standards))
+
+6. [Tools and instruments in QMS.](#6. Tools and instruments in QMS.)
+
+7. [Environmental aspects and principles](#7. Environmental aspects and principles)
+
+8. [Model of an Environmental Management Systemd. Safety Management System](#8. Model of an Environmental Management Systemd. Safety Management System)
+
+9. [Goals in Safety Management System](#9. Goals in Safety Management System)
+
+[TWO-BOOK-OVEROOL](#BOOK)
+
+1. [what is quality?](#what is quality?)
+2. [Which principles are important in quality management?](#Which principles are important in quality management?)
+3. [How has quality management developed over time?](#How has quality management developed over time?)
+4. [What criticism is there for the traditional approach of management?](#What criticism is there for the traditional approach of management?)
+5. [What are the tangible and intangible benefits in improving quality?](#What are the tangible and intangible benefits in improving quality?)
+6. [Which three main contributions to quality management and quality improvement describes DEMING?](#Which three main contributions to quality management and quality improvement describes DEMING? )
+7. [Why do we need Standards?](#Why do we need Standards?)
+8. [What does a certification according to ISO 9000 represents?](#What does a certification according to ISO 9000 represents?)
+9. [How it looks the quality process according to ISO 9000?](#How it looks the quality process according to ISO 9000? )
+10. [What are the myths of Customer and Quality? Describe it](#What are the myths of Customer and Quality? Describe it)
+11. [What is the definition of quality planning?](#What is the definition of quality planning?)
+12. [What is the quality planning problem? ](#What is the quality planning problem? )
+13. [What are the quality planning process?](#What are the quality planning process?)
+14. [Describe each process with three aspects .](#Describe each process with three aspects .)
+15. [Describe following tools and techniques](#Describe following tools and techniques)
+
+[THREE-PPT-OVEROOL](#PPT)
+
+1. [Business Models with Lean StartUp Approach and Design Thinking](#Business Models with Lean StartUp Approach and Design Thinking)
+2. [What is an Integrated Management System (IMS)?](#What is an Integrated Management System (IMS)?)
+3. [What are the objectives of an IMS?](#What are the objectives of an IMS?)
+4. [What distinguishes an IMS?](#What distinguishes an IMS?)
+5. [How can an IMS be described?](#How can an IMS be described?)
+6. [What does an IMS look like for industrial companies?](#What does an IMS look like for industrial companies?)
+7. [Which legal requirements have to be observed?](#Which legal requirements have to be observed?)
+8. [What would be possible quality goals?](#What would be possible quality goals?)
+9. [Derive two activities to achieve the following quality goals.](#Derive two activities to achieve the following quality goals.)
+10. [Clarify this with the example of increased customer complaints](#Clarify this with the example of increased customer complaints)
+
+
 
 ![img](https://user-images.githubusercontent.com/77034643/167244710-6b41911c-4024-4b4d-a7a6-b3f894c2ef64.png)
 
-# 一
+![img](https://user-images.githubusercontent.com/77034643/167252579-16102795-f027-4d4f-9987-00b1ba2b5a10.png)
+
+# CHECKLIST
+
+## 1.Find a business model by using design thinking or lean startup
+
+For a example. If i have an good an good ider, I will start my project with Lean Startup,else I will start my project with design thinking. So If I choose first, I will incorporation of user needs through early and continuous hypothesis testing.As a result.My bussiness model will be a Robust & efficient & fastly gained business model, Central focus. If I choose behind,  I will incorporation of user needs with Qualitative methods.My bussiness model will be Testable prototype and no Central focus.Overoll, I think open source community will become a widely business model for individual developer.
+
+##  2. Describe an lMS with the three management systems to your project.
+
+**An Integrated Management System (IMS)** integrates all of an organization’s systems and processes into one complete framework,  enabling an organization to work as a single unit with unified  objectives.
+
+First of all.It is environmental management.
+
+TheirEnvironmental Objectives include:
+
+1. To monitor targets for energy, water, and waste reduction in our offices,
+
+2. To champion environmental and sustainability initiatives that reduce our  environmental impact; encouraging others in our communities and sharing  what we learn along the way,
+
+3. To support positive environmental changes throughout the New Zealand Electricity Supply Industry,
+
+4. To create a company culture of environmental awareness and sustainability.
+
+Second of all. It is safety production management.
+
+We believe that technology can help improve safety in our cars as well  as in our workplace. EHS is engaged with engineering so our products are more ergonomically friendly to build and install.And making safety production more perfect. Design principles and standards have been established between ergonomics, production and  engineering so safety is built into the design process from the initial  stages. 
+
+Third of all It is occupational health management.[more detail](https://teslaec.com/policy/4-occupatinal-health-management-policy)
+
+1. TESLA ENGINEERING is committed to encouraging Medical checkups, pre-employment and on regular bases.
+
+2. TESLA ENGINEERING is keen to provide respectable Medical lnsurance of good coverage to all its staff.
+
+3. TESLA ENGINEERING is highly committed to the wellbeing of its stafl and to avoid all chronic and acute health  effects to staff and contractors.
+
+## 3. Describe the structure of IMS
+
+An Integrated Management System (IMS) combines all aspects of an organisation’s systems, processes and Standards into one smart system. Like EMS add QMS add SMS.(IMS = EMS + QMS + SMS). The IMS describes the process-oriented structure of a company(leadership, core and supporting processes).
+
+## 4. Quality Goals
+
+[more detail](https://teslaec.com/policy/3-quality-policy)
+
+1. Deliver on-time and on-quality products, systems and services that meet or exceed our customer's expectations.
+
+2. ldentify and understand our customer's  expectations, measure customer perceptions, and implement improvements  to increase customer satisfaction.
+
+3. Enable and engage our people at all  levels in a relentless drive to improve operational performance along  the value chain from suppliers to customers.
+
+4. lncrease the motivation and skills of  our people to add value to our customers and our businesses, through  continual training and development. 
+
+5. Leverage our partners and suppliers'  strengths to improve our products and our businesses from product design through production, installation and operation. 
+
+6. Embed social responsibility and company ethics policies in our business practices. 
+
+7. Continually improve environmental, health and safety performance through all products, operations, systems and services. 
+
+8. Provide a value for money service.
+
+9. Maintain an effectively trained staff and management. 
+
+10. Make a profitable return on our activities in order to fund ongoing development and growth. 
+
+11. lmprove efficiency through improvements in productivity.
+
+## 5. Model of a process-oriented QMS(according to standards)
+
+1. The model of a process-oriented QMS according to DIN EN ISO 9001: 2008 – CUSTOMER VIEW **P64**
+2. The model of a process-oriented QMS according to DIN EN ISO 9001: 2008 – MANUFACTURER VIEW **P65**
+3. DIN EN ISO 9001: 2015 – “New” PDCA Cycle **P66**
+4. DIN EN ISO 9001: 2015 – “New” PDCA Cycle **P67**
+5. The model of a process-oriented QMS according to DIN EN ISO 9001: 2015 **P68**
+
+## 6. Tools and instruments in QMS.
+
+The first is Kano-Model.We can use it to analyze expectations and requirements of the customer.And it contain with Basic factors Performance factors Enthusiasm factors.The Kano-Model describes the relationship between requirements of customer and their satisfaction.
+
+The second is Instruments for error detection  Collective error list (**P74**) and Histogram(**P75**) and Instruments for error analysis Pareto Analysis(**P76**) ,Cause-and-effect diagram (Ishikawa diagram) and EPIA Analysis (FMEA; see project management).
+
+Ishikawa diagram(**P78**)
+
+ ## 7. Environmental aspects and principles
+
+For the EMS the standards families ISO 14000 and EMAS (Eco-Management and Audit Scheme) are used.
+EMAS is valid within the EU, while ISO 14001 is valid worldwide. EMAS regulations are stricter.
+EMS requires extensive documentation. It serves as a proof in an environmental audit. This audit shows if the EMS works.
+Fundamentals of the EMS are three principles: 
+
+​	Principle of precautionary (Vorsorgeprinzip)  Principle of welfare (Fürsorgeprinzip)
+​	Principle of cooperation
+
+## 8. Model of an Environmental Management Systemd. Safety Management System
+
+1. Representation of the EMS according to EMAS **P88**
+2. Representation of the EMS according to EMAS **P89**
+
+## 9. Goals in Safety Management System
+
+The objective of a Safety Management System is to provide a structured  management approach to control safety risks in operations. Effective safety managementmust take into account the organisation’s specific structures and processes related to safety of operations.
+
+[about sms](https://www.faa.gov/about/initiatives/sms/explained/components)
+
+# BOOK
 
 ## what is quality?   
 Quality refers to how good something is compared to other similar things. In other words, its degree of excellence.
@@ -71,11 +229,11 @@ intangible benefits：
 
 [相关页面](https://www.wisdomjobs.com/e-university/quality-management-tutorial-363/intangible-benefits-12231.html)
 
-## Which three main contributions to quality management and quality improvement describes DEMING?
+## Which three main contributions to quality management and quality improvement describes DEMING? 
 
 1. Create constancy of purpose for improvement of product and service.
 
-2. Adopt the new philosophy
+   1. Adopt the new philosophy		  
 
 3. Cease dependence on inspection to achieve quality.
 
@@ -121,8 +279,6 @@ The main purpose of the ISO 9000 standard is to provide a time-tested  framework
 5. Manage customer  relationships
 6. Aim to exceed  customer expectations
 7. Learn more about the [customer  experience](https://asq.org/quality-resources/customer-experience) and customer  satisfaction
-
-# 二
 
 ## What is the definition of quality planning?
 
@@ -171,8 +327,6 @@ functional expertise.
 
 **Implement Plan and Validate Transfer**
 
-# 三
-
 # Describe following tools and techniques
 
 **Cost-Benefit Analysis**
@@ -184,8 +338,6 @@ trade-offs of providing quality.
 
 Cost of quality (COQ) includes all the costs that conform to the required quality of the project, including the cost to ensure conformance to requirements as well as the cost of nonconformance, and finding the right balance. Modern quality management philosophy emphasizes preventing mistakes rather than detecting them later
 because the cost of nonconformance is very high.
-
-# Describe following tools and techniques
 
 **Cause and Effect Diagrams** P59
 
@@ -208,8 +360,6 @@ caused by twenty percent of the problems.
 A histogram is a vertical bar graph that represents the frequency of each measured category (known as bins) of variable. In other words, the graph represents a rough frequency distribution of the data. The histogram is particularly useful for identifying common causes. The histogram can be ordered, similar to a Pareto chart, or
 unordered.
 
-# Describe following tools and techniques
-
 **Network Diagrams**
 
 The network diagram is a schematic display of the logical relationships, or interdependencies, of all the project activities. You can create it manually or with a project management software tool. The network diagram is a
@@ -219,10 +369,6 @@ good tool to show the workflow of the project and it can help effectively plan a
 
 One of the most important sub processes performed during the quality assurance process is the quality audit. According to the PMBOK Guide, the quality audit is an independent review conducted by internal or external auditors. The quality audit can be performed on a regularly scheduled basis or an ad hoc basis. The audit is a structured review of quality management activities to identify good or best practices and lessons learned for use
 on current or future projects.
-
-# 四
-
-两个例子
 
 # PPT
 
@@ -235,14 +381,16 @@ on current or future projects.
 • Both approaches have strengths and weaknesses – which one is applied depends on the
 situation (e.g. whether a founder is visionary or a problem-solver etc.).
 
-# Integrated Management Systems
-
-## What is an Integrated Management System (IMS)?
-
 ### What is an Integrated Management System (IMS)?
 
 The introduction of an Integrated Management System (IMS) follows this management process: analysis, planning, realization and control. This means that the framework conditions must be analyzed for the introduction of an IMS,
 the steps for its introduction planned, and then implemented and controlled.
+
+The term "Integrated Management Systems" refers to the close interaction of the individual MS.
+Integrative MS connect different MS with each other:
+
+The IMS describes the process-oriented structure of a company. It incorporates the quality standard, the environmental management standard and occupational
+safety into the company processes.
 
 ### What are the objectives of an IMS?
 
@@ -298,8 +446,6 @@ Leadership and management processes are processes that ensure the company's goal
 8. Quality  System Requirements for Telecommunications Industry Suppliers (TL 9000); 
 
 9. and Business Excellence Model (BEM). 
-
-# Quality Management System
 
 ## What would be possible quality goals?
 
@@ -357,10 +503,3 @@ Offer personnel development measures
 ## Clarify this with the example of increased customer complaints
 
 ?
-
-# Safety Management System
-
-
-
-# Environmental Management System
-
