@@ -6,7 +6,9 @@ Hello,我来自华北理工大学，是一个大二在校大学生。
 
 [Easy-HTML-MAKER](https://github.com/SongZihui-sudo/Easy-HTML-MAKER)一个静态博客生成器，提供了主题与插件的拓展功能。  
 
-[xmake-vscode](https://github.com/xmake-io/xmake-vscode) 贡献了一些很简单的功能，F5调试快捷键的绑定，toolchain切换。
+[xmake-vscode](https://github.com/xmake-io/xmake-vscode) 贡献了一些很简单的功能，F5调试快捷键的绑定，toolchain切换按钮。   
+
+[chaoxing_tool](https://github.com/liuyunfz/chaoxing_tool) 超星工具  
 
 [xmake](https://github.com/xmake-io/xmake)是我很感兴趣的开源项目。  
 
