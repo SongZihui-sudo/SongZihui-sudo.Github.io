@@ -8,8 +8,7 @@
 
 [搜索算法总结与思考](./algorithm/搜索算法.md)   
 [Bitmap算法(C语言)](./algorithm/Bitmap_algorithm.md)  
-[8086内存分段机制](./algorithm/8086处理器的内存分段机制.md)
-
+[8086内存分段机制](./algorithm/8086处理器的内存分段机制.md)   
 [原码，反码，补码](./algorithm/原码反码还有补码.md)
 
 > 编程感悟 
