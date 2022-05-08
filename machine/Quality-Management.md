@@ -101,13 +101,56 @@ An Integrated(**in te gui rui de**) Management System (IMS) combines all aspects
 11. lmprove efficiency through improvements in productivity.
 
 ##  5. <a name='Modelofaprocess-orientedQMSaccordingtostandards'></a>5. Model of a process-oriented QMS(according to standards)
+![img](https://user-images.githubusercontent.com/77034643/167302812-8dc82ecd-321c-480e-a77b-ecdcf02deb09.png)   
+As we all know about The Qms is included that Act,Plan,Check and Do.The act is about Quality Improvement ,the plan is about the Quality planning, the Do is about the Quality steering, and the Check is about the Quality Security.
 
-1. The model of a process-oriented QMS according to DIN EN ISO 9001: 2008 – CUSTOMER VIEW **P64**
-2. The model of a process-oriented QMS according to DIN EN ISO 9001: 2008 – MANUFACTURER VIEW **P65**
+1. The model of a process-oriented QMS according to DIN EN ISO 9001: 2008 – CUSTOMER VIEW **P64**  
+![img](https://user-images.githubusercontent.com/77034643/167302468-5d6af8e1-2142-4653-8f63-7a6cc8c58ab0.png)     
+In the Customer View,We can see that The deming circle is contain Act,Check,Do,Plan.Customers pull some requirements.And then We will make some ways to improve the customer statisfation.(Fully understand customer needs, Classification and grading of customer needs by the customer service center, Communication Skills for Customer Satisfaction).Accounding the plan and check,We will back to the do(product) Last We output a good project.  
+**Customer focus**   
+Organizations depend on their customers and therefore should understand current and future customer needs, should meet customer requirements and strive to exceed customer expectations.   
+**Leadership**   
+Leaders establish unity of purpose and direction of the organization. They should create and maintain the internal environment in which people can become fully involved in achieving the organization’s objectives.
+Involvement of people People at all levels are the essence of an organization and their full involvement enables their abilities to be used for the organization’s benefit.  
+**Process approach**   
+A desired result is achieved more efficiently when activities and related resources are managed as a process.  
+**System approach to management**   
+Identifying, understanding and managing interrelated processes as a system contributes to the organization’s effectiveness and efficiency in achieving its objectives.  
+**Continual improvement**   
+Continual improvement of the organization’s overall performance should be a permanent objective of the organization.  
+**Factual approach to decision making**   
+Effective decisions are based on the analysis of data and information.  
+**Mutually beneficial supplier relationships**   
+An organization and its suppliers are interdependent and a mutually beneficial
+relationship enhances the ability of both to create value." (ISO 9000:2000-12, 7)
+2. The model of a process-oriented QMS according to DIN EN ISO 9001: 2008 – MANUFACTURER VIEW **P65**  
+![img](https://user-images.githubusercontent.com/77034643/167302486-e64cba10-c6c3-4b38-a869-e59298ec398d.png)  
+In the MANUFACTURER View the Demining cycle is also contain with Act,Plan,Do,Check.As a MANUFACTURER,We will focus on the customers staisfation.according to it,We improve our quality of out project.  
 3. DIN EN ISO 9001: 2015 – “New” PDCA Cycle **P66**
+![img](https://user-images.githubusercontent.com/77034643/167302497-2853163f-0d17-4d3e-b141-bd2d79f9ee87.png)   
+About the ISO 9001: 2015 – “New” PDCA Cycle.It includes with I,O-L-P,E,S-P.The Act is about improve out project or quality.And the plan is about the organization and leadership and planning.(dev direction).We will do some things.(supporting Production, and processes). Last it is check the Evaluation of performance.   
 4. DIN EN ISO 9001: 2015 – “New” PDCA Cycle **P67**
+![img](https://user-images.githubusercontent.com/77034643/167302508-373e32d3-9677-4f0f-ab53-e58e30440171.png)      
+**Plan:**   
+The first is Plan. Recognize an opportunity and plan a change.  
+**Do:**  
+The second of all is Do. Test the change. Carry out a small-scale study.  
+Check: Review the test, analyze the results, and identify what you’ve learned.  
+**Act:**   
+The third of all is Act. Take action based on what you learned in the study step. If the change did not work, go through the cycle again with a different plan. If you were successful, incorporate what you learned from the test into wider changes. Use what you learned to plan new improvements, beginning the cycle again.  
 5. The model of a process-oriented QMS according to DIN EN ISO 9001: 2015 **P68**
-
+![img](https://user-images.githubusercontent.com/77034643/167302520-049e3bb3-1b1c-4cc3-85d3-d75d879ac1a5.png)           
+[相关页面](https://wiki.mbalib.com/wiki/ISO9001:2015)  
+**Plan-Do-Check-Act cycle**   
+he PDCA cycle can be briefly described as follows:  
+**Plan:**  
+establish the objectives of the system and its processes, and the resources needed to deliver results in accordance with customers' requirements and the organization's policies, and identify and address risks and opportunities;  
+**Do:**  
+implement what was planned;
+— Check: monitor and (where applicable) measure processes and the resulting products and services against policies, objectives, requirements and planned activities, and report the results;  
+**Act:**   
+take actions to improve performance, as necessary.
+FIRST,we will accept customer's requirements about the product..We will plan.and then We proessing it.In the peocess,We will improve our product accouning to the customer's satisfaction or requirements.In the last step,We will check out product.And then go back to the product.
 ##  6. <a name='ToolsandinstrumentsinQMS.'></a>6. Tools and instruments in QMS.
 
 The first is Kano-Model.We can use it to analyze expectations and requirements of the customer.And it contain with Basic factors Performance factors Enthusiasm(**en se si ya ze mu**) factors.The Kano-Model describes the relationship between requirements of customer and their satisfaction.
@@ -128,9 +171,10 @@ Principle of welfare (**wao rui fei er**)(Fürsorgeprinzip)
 Principle of cooperation
 
 ##  8. <a name='ModelofanEnvironmentalManagementSystemd.SafetyManagementSystem'></a>8. Model of an Environmental Management Systemd. Safety Management System
-
-1. Representation of the EMS according to EMAS **P88**
-2. Representation of the EMS according to EMAS **P89**
+Representation of the EMS according to EMAS **P88**   
+![img](https://user-images.githubusercontent.com/77034643/167304271-ef184a70-2903-432e-a653-3e3b15e351f5.png)    
+[相关页面](https://www.epa.gov/ems/learn-about-environmental-management-systems)   
+An Environmental Management System (EMS) is a framework that helps an organization achieve its environmental goals through consistent review, evaluation, and improvement of its environmental performance. The assumption is that this consistent review and evaluation will identify opportunities for improving and implementing the environmental performance of the organization. The EMS itself does not dictate a level of environmental performance that must be achieved; each organization's EMS is tailored to its own individual objectives and targets.
 
 ##  9. <a name='GoalsinSafetyManagementSystem'></a>9. Goals in Safety Management System
 
@@ -172,7 +216,7 @@ means of a QMS, so that the quality is secured permanently.
 
 ##  13. <a name='Whatcriticismisthereforthetraditionalapproachofmanagement'></a>13. What criticism is there for the traditional approach of management?
 
-？
+Conversely, Mintzberg (1994), one of the biggest critics of prescriptive approach developed the emergent approach to strategic management. He states that in emergent strategies the final objective is unclear and it a process of evolution, adaption, alternation and continuity. Emergent strategies are more successful in this chaotic world as they are unintentional and are the result of impromptu response to unforeseen situations which emerge over time. For example, Sam Walton, the founder of Wal-Mart, decision to open his second store in a rural area rather than a big city, for convenience of logistics and management efficiency was a fantastic winning emergent strategy. Also as there was less competition and people would travel to buy products which offered value at the lowest prices, made the business successful.
 
 ##  14. <a name='Whatarethetangibleandintangiblebenefitsinimprovingquality'></a>14. What are the tangible and intangible benefits in improving quality?
 
@@ -442,4 +486,4 @@ Goal 5:
 ​	Offer personnel development measures
 
 ##  34. <a name='Clarifythiswiththeexampleofincreasedcustomercomplaints'></a>34. Clarify this with the example of increased customer complaints
-
+Customer complaints are pieces of feedback that point out problems with your company's product or services. These are opportunities for your business to improve its internal processes and create a better customer experience.   
