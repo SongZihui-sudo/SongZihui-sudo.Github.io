@@ -1,60 +1,5 @@
 # Quality Management——质量管理
 
-## content
-
-[ONE.CheckList](#CHECKLIST)
-
-1. [Find a business model by using design thinking or lean startup](#1.Find a business model by using design thinking or lean startup)
-
-2. [Describe an lMS with the three management systems to your project.](#2. Describe an lMS with the three management systems to your project.)
-
-3. [Describe the structure of IMS](#3. Describe the structure of IMS[)
-
-4. [Quality Goals](#4. Quality Goals)
-
-5. [Model of a process-oriented QMS(according to standards](#5. Model of a process-oriented QMS(according to standards))
-
-6. [Tools and instruments in QMS.](#6. Tools and instruments in QMS.)
-
-7. [Environmental aspects and principles](#7. Environmental aspects and principles)
-
-8. [Model of an Environmental Management Systemd. Safety Management System](#8. Model of an Environmental Management Systemd. Safety Management System)
-
-9. [Goals in Safety Management System](#9. Goals in Safety Management System)
-
-[TWO-BOOK-OVEROOL](#BOOK)
-
-1. [what is quality?](#what is quality?)
-2. [Which principles are important in quality management?](#Which principles are important in quality management?)
-3. [How has quality management developed over time?](#How has quality management developed over time?)
-4. [What criticism is there for the traditional approach of management?](#What criticism is there for the traditional approach of management?)
-5. [What are the tangible and intangible benefits in improving quality?](#What are the tangible and intangible benefits in improving quality?)
-6. [Which three main contributions to quality management and quality improvement describes DEMING?](#Which three main contributions to quality management and quality improvement describes DEMING? )
-7. [Why do we need Standards?](#Why do we need Standards?)
-8. [What does a certification according to ISO 9000 represents?](#What does a certification according to ISO 9000 represents?)
-9. [How it looks the quality process according to ISO 9000?](#How it looks the quality process according to ISO 9000? )
-10. [What are the myths of Customer and Quality? Describe it](#What are the myths of Customer and Quality? Describe it)
-11. [What is the definition of quality planning?](#What is the definition of quality planning?)
-12. [What is the quality planning problem? ](#What is the quality planning problem? )
-13. [What are the quality planning process?](#What are the quality planning process?)
-14. [Describe each process with three aspects .](#Describe each process with three aspects .)
-15. [Describe following tools and techniques](#Describe following tools and techniques)
-
-[THREE-PPT-OVEROOL](#PPT)
-
-1. [Business Models with Lean StartUp Approach and Design Thinking](#Business Models with Lean StartUp Approach and Design Thinking)
-2. [What is an Integrated Management System (IMS)?](#What is an Integrated Management System (IMS)?)
-3. [What are the objectives of an IMS?](#What are the objectives of an IMS?)
-4. [What distinguishes an IMS?](#What distinguishes an IMS?)
-5. [How can an IMS be described?](#How can an IMS be described?)
-6. [What does an IMS look like for industrial companies?](#What does an IMS look like for industrial companies?)
-7. [Which legal requirements have to be observed?](#Which legal requirements have to be observed?)
-8. [What would be possible quality goals?](#What would be possible quality goals?)
-9. [Derive two activities to achieve the following quality goals.](#Derive two activities to achieve the following quality goals.)
-10. [Clarify this with the example of increased customer complaints](#Clarify this with the example of increased customer complaints)
-
-
-
 ![img](https://user-images.githubusercontent.com/77034643/167244710-6b41911c-4024-4b4d-a7a6-b3f894c2ef64.png)
 
 ![img](https://user-images.githubusercontent.com/77034643/167252579-16102795-f027-4d4f-9987-00b1ba2b5a10.png)
@@ -65,7 +10,7 @@
 
 For a example. If i have an good an good ider, I will start my project with Lean Startup,else I will start my project with design thinking. So If I choose first, I will incorporation of user needs through early and continuous hypothesis testing.As a result.My bussiness model will be a Robust & efficient & fastly gained business model, Central focus. If I choose behind,  I will incorporation of user needs with Qualitative methods.My bussiness model will be Testable prototype and no Central focus.Overoll, I think open source community will become a widely business model for individual developer.
 
-##  2. Describe an lMS with the three management systems to your project.
+## 2. Describe an lMS with the three management systems to your project.
 
 **An Integrated Management System (IMS)** integrates all of an organization’s systems and processes into one complete framework,  enabling an organization to work as a single unit with unified  objectives.
 
@@ -74,23 +19,18 @@ First of all.It is environmental management.
 TheirEnvironmental Objectives include:
 
 1. To monitor targets for energy, water, and waste reduction in our offices,
-
 2. To champion environmental and sustainability initiatives that reduce our  environmental impact; encouraging others in our communities and sharing  what we learn along the way,
-
 3. To support positive environmental changes throughout the New Zealand Electricity Supply Industry,
-
 4. To create a company culture of environmental awareness and sustainability.
 
 Second of all. It is safety production management.
 
-We believe that technology can help improve safety in our cars as well  as in our workplace. EHS is engaged with engineering so our products are more ergonomically friendly to build and install.And making safety production more perfect. Design principles and standards have been established between ergonomics, production and  engineering so safety is built into the design process from the initial  stages. 
+We believe that technology can help improve safety in our cars as well  as in our workplace. EHS is engaged with engineering so our products are more ergonomically friendly to build and install.And making safety production more perfect. Design principles and standards have been established between ergonomics, production and  engineering so safety is built into the design process from the initial  stages.
 
 Third of all It is occupational health management.[more detail](https://teslaec.com/policy/4-occupatinal-health-management-policy)
 
 1. TESLA ENGINEERING is committed to encouraging Medical checkups, pre-employment and on regular bases.
-
 2. TESLA ENGINEERING is keen to provide respectable Medical lnsurance of good coverage to all its staff.
-
 3. TESLA ENGINEERING is highly committed to the wellbeing of its stafl and to avoid all chronic and acute health  effects to staff and contractors.
 
 ## 3. Describe the structure of IMS
@@ -102,25 +42,15 @@ An Integrated Management System (IMS) combines all aspects of an organisation’
 [more detail](https://teslaec.com/policy/3-quality-policy)
 
 1. Deliver on-time and on-quality products, systems and services that meet or exceed our customer's expectations.
-
 2. ldentify and understand our customer's  expectations, measure customer perceptions, and implement improvements  to increase customer satisfaction.
-
 3. Enable and engage our people at all  levels in a relentless drive to improve operational performance along  the value chain from suppliers to customers.
-
-4. lncrease the motivation and skills of  our people to add value to our customers and our businesses, through  continual training and development. 
-
-5. Leverage our partners and suppliers'  strengths to improve our products and our businesses from product design through production, installation and operation. 
-
-6. Embed social responsibility and company ethics policies in our business practices. 
-
-7. Continually improve environmental, health and safety performance through all products, operations, systems and services. 
-
+4. lncrease the motivation and skills of  our people to add value to our customers and our businesses, through  continual training and development.
+5. Leverage our partners and suppliers'  strengths to improve our products and our businesses from product design through production, installation and operation.
+6. Embed social responsibility and company ethics policies in our business practices.
+7. Continually improve environmental, health and safety performance through all products, operations, systems and services.
 8. Provide a value for money service.
-
-9. Maintain an effectively trained staff and management. 
-
-10. Make a profitable return on our activities in order to fund ongoing development and growth. 
-
+9. Maintain an effectively trained staff and management.
+10. Make a profitable return on our activities in order to fund ongoing development and growth.
 11. lmprove efficiency through improvements in productivity.
 
 ## 5. Model of a process-oriented QMS(according to standards)
@@ -139,15 +69,17 @@ The second is Instruments for error detection  Collective error list (**P74**) a
 
 Ishikawa diagram(**P78**)
 
- ## 7. Environmental aspects and principles
+## 7. Environmental aspects and principles
 
 For the EMS the standards families ISO 14000 and EMAS (Eco-Management and Audit Scheme) are used.
 EMAS is valid within the EU, while ISO 14001 is valid worldwide. EMAS regulations are stricter.
 EMS requires extensive documentation. It serves as a proof in an environmental audit. This audit shows if the EMS works.
-Fundamentals of the EMS are three principles: 
+Fundamentals of the EMS are three principles:
 
-​	Principle of precautionary (Vorsorgeprinzip)  Principle of welfare (Fürsorgeprinzip)
-​	Principle of cooperation
+```
+Principle of precautionary (Vorsorgeprinzip)  Principle of welfare (Fürsorgeprinzip)
+	Principle of cooperation
+```
 
 ## 8. Model of an Environmental Management Systemd. Safety Management System
 
@@ -162,7 +94,8 @@ The objective of a Safety Management System is to provide a structured  manageme
 
 # BOOK
 
-## what is quality?   
+## what is quality?
+
 Quality refers to how good something is compared to other similar things. In other words, its degree of excellence.
 
 The nature of goods and services describes this term. Quality products have no defects, damages or errors and thus do not lead to complaints.
@@ -172,36 +105,26 @@ means of a QMS, so that the quality is secured permanently.
 
 ## Which principles are important in quality management?
 
-1.  Customer focus
+1. Customer focus
+2. Leadership
+3. Engagement of people
+4. Process approach
+5. Improvement
+6. Evidence-based decision making
+7. Relationship management
 
-2.  Leadership
-
-3.  Engagement of people
-
-4.  Process approach
-
-5.  Improvement
-
-6.  Evidence-based decision making
-
-7.  Relationship management
-
-   [相关页面](https://www.paldesk.com/7-core-principles-of-quality-management/#:~:text=What%20are%20the%20Core%20Principles%20of%20Quality%20Management%3F,initiatives%20are%20beneficial%20for%20at%20least%20two%20reasons.)
+[相关页面](https://www.paldesk.com/7-core-principles-of-quality-management/#:~:text=What%20are%20the%20Core%20Principles%20of%20Quality%20Management%3F,initiatives%20are%20beneficial%20for%20at%20least%20two%20reasons.)
 
 ## How has quality management developed over time?
 
- [相关页面](https://asq.org/quality-resources/history-of-quality)
+[相关页面](https://asq.org/quality-resources/history-of-quality)
 
 1. Quality Management in Medieval Guilds
-
 2. Quality Management in the Industrial Revolution
-
 3. Quality Management in WWII
-
 4. Quality Management in the 20th Century
 5. The Development of Total Quality Management
-
-6. Beyond Total Quality Management    
+6. Beyond Total Quality Management
 
 ## What criticism is there for the traditional approach of management?
 
@@ -212,11 +135,8 @@ means of a QMS, so that the quality is secured permanently.
 Tangible benefit ：
 
 1. Perhaps the most obvious tangible benefit of quality improvement is the reduction of costs associated with non-quality.
-
-2. By translating quality issues into financial measures it  facilitates senior management commitment to improvement activities and,  if sufficiently detailed, suggests priority areas for improvement.   
-
-3. It provides a clear indication of the scale of the opportunity  presented by current poor quality performance and a guide as to the  level of resources which can be committed. 
-
+2. By translating quality issues into financial measures it  facilitates senior management commitment to improvement activities and,  if sufficiently detailed, suggests priority areas for improvement.
+3. It provides a clear indication of the scale of the opportunity  presented by current poor quality performance and a guide as to the  level of resources which can be committed.
 4. Provides an effective measure of improvement if re-calculated after the improvement has been made.
 
 [相关页面](https://www.wisdomjobs.com/e-university/quality-management-tutorial-363/tangible-benefits-12230.html)
@@ -224,39 +144,28 @@ Tangible benefit ：
 intangible benefits：
 
 1. Increased Customer Satisfaction
-2.  Increased Workforce Satisfaction and Motivation
+2. Increased Workforce Satisfaction and Motivation
 3. Improved Environmental Impact
 
 [相关页面](https://www.wisdomjobs.com/e-university/quality-management-tutorial-363/intangible-benefits-12231.html)
 
-## Which three main contributions to quality management and quality improvement describes DEMING? 
+## Which three main contributions to quality management and quality improvement describes DEMING?
 
 1. Create constancy of purpose for improvement of product and service.
 
-   1. Adopt the new philosophy		  
-
-3. Cease dependence on inspection to achieve quality.
-
-4. End the practice of awarding business based on price tag alone.  Instead, minimize total cost by working with a single supplier.
-
-5. Improve constantly and forever every process for planning, production, and service.
-
-6. Institute on the job training.
-
-7. Adopt and institute leadership
-
-8. Drive out fear
-
-9. Break down barriers between staff areas
-
-10. Eliminate slogans, exhortations, and targets for the workforce
-
-11. Eliminate numerical quotas for the workforce and numerical goals for management
-12. Remove barriers that rob people of workmanship. Eliminate the annual rating or merit system.
-
-13. Institute a vigorous program of education and self-improvement for everyone
-
-14. Put everyone in the company to work to accomplish the transformation.
+   1. Adopt the new philosophy
+2. Cease dependence on inspection to achieve quality.
+3. End the practice of awarding business based on price tag alone.  Instead, minimize total cost by working with a single supplier.
+4. Improve constantly and forever every process for planning, production, and service.
+5. Institute on the job training.
+6. Adopt and institute leadership
+7. Drive out fear
+8. Break down barriers between staff areas
+9. Eliminate slogans, exhortations, and targets for the workforce
+10. Eliminate numerical quotas for the workforce and numerical goals for management
+11. Remove barriers that rob people of workmanship. Eliminate the annual rating or merit system.
+12. Institute a vigorous program of education and self-improvement for everyone
+13. Put everyone in the company to work to accomplish the transformation.
 
 ## Why do we need Standards?
 
@@ -266,7 +175,7 @@ Standards are needed to assure safety of products, to ensure that products and  
 
 The main purpose of the ISO 9000 standard is to provide a time-tested  framework to help companies establish and follow a systematic approach  for managing organizational processes for rendering consistent quality.
 
-## How it looks the quality process according to ISO 9000? 
+## How it looks the quality process according to ISO 9000?
 
 ？
 
@@ -284,11 +193,10 @@ The main purpose of the ISO 9000 standard is to provide a time-tested  framework
 
 “Quality planning,” as used here, is a structured process for developing products (both goods and services) that ensures that customer needs are met by the final result.
 
-## What is the quality planning problem? 
+## What is the quality planning problem?
 
 1. The first component of the quality gap is the understanding gap, that is, lack of understanding of what the customer needs.
-
-2. The second constituent of the quality gap is a design gap. 
+2. The second constituent of the quality gap is a design gap.
 3. The third gap is the process gap.
 4. The fourth gap is the operations gap.
 
@@ -301,29 +209,41 @@ functional expertise.
 
 **Identify Controls Needed**
 
-​	Evaluate the actual performance of the process.
-​	Compare actual performance with the goals.
- 	Take action on the difference.
+```
+Evaluate the actual performance of the process.
+	Compare actual performance with the goals.
+Take action on the difference.
+```
 
 **Design Feedback Loop**
 
-​	Setting the standards for control—i.e., the levels at which the process is out of control and the tools, such as control charts, 	that will be used to make the determination
+```
+Setting the standards for control—i.e., the levels at which the process is out of control and the tools, such as control charts, 	that will be used to make the determination
+```
 
-​	Deciding what action is needed when those standards are not met, e.g., troubleshooting.
+```
+Deciding what action is needed when those standards are not met, e.g., troubleshooting.
+```
 
-​	Designating who will take those actions
+```
+Designating who will take those actions
+```
 
 **Optimize Self-Control and Self-Inspection**
 
-​	Workers know what they are doing. Their output is measured, and they receive immediate feedback on their performance.
-​	Workers have the ability and the means to regulate the outcomes of the process. They need a capa-ble process along with the tools, training, and authority to regulate it.
+```
+Workers know what they are doing. Their output is measured, and they receive immediate feedback on their performance.
+	Workers have the ability and the means to regulate the outcomes of the process. They need a capa-ble process along with the tools, training, and authority to regulate it.
+```
 
 **Audit Plan for the Transfer**
 
-​	Goals to meet  How meeting the goals will be measured
-​	The time phasing for goals, measurement, and analysis  Who will audit
-​	What reports will be generated
-​	Who will have responsibility for corrective action for failure to meet specific goals
+```
+Goals to meet  How meeting the goals will be measured
+	The time phasing for goals, measurement, and analysis  Who will audit
+	What reports will be generated
+	Who will have responsibility for corrective action for failure to meet specific goals
+```
 
 **Implement Plan and Validate Transfer**
 
@@ -331,7 +251,7 @@ functional expertise.
 
 **Cost-Benefit Analysis**
 
- The cost-benefit analysis is similar to a cost-benefit ratio. The costs and benefits are measured to analyze the
+The cost-benefit analysis is similar to a cost-benefit ratio. The costs and benefits are measured to analyze the
 trade-offs of providing quality.
 
 **Cost of Quality**
@@ -394,12 +314,9 @@ safety into the company processes.
 
 ### What are the objectives of an IMS?
 
-1. Increase the efficiency of company processes 
-
-2. Establishment of a flexible management system 
-
+1. Increase the efficiency of company processes
+2. Establishment of a flexible management system
 3. Cost and time savings (Double processes should be detoxified)
-
 4. Minimizing product liability risk
 
 ### What distinguishes an IMS?
@@ -417,35 +334,24 @@ Leadership and management processes are processes that ensure the company's goal
 
 ### What does an IMS look like for industrial companies?
 
-1. Supply chain processes 
-
-2. Production/ Manufacturing processes 
-
-3. Distribution processes 
-
+1. Supply chain processes
+2. Production/ Manufacturing processes
+3. Distribution processes
 4. Sales processes
 
    etc.
 
 ### Which legal requirements have to be observed?
 
-1. Quality (ISO 9001); Environment  (ISO 14001); 
-
-2. Occupational Health & Safety (ISO 45001 & BS 8800); 
-
-3. Food Safety & Hazard Analysis Critical Control Points (HACCP);  
-
-4. Ethical Trading Practices (SA 8000); Social & Ethical Accounting,  Auditing and Reporting (AA 1000); 
-
+1. Quality (ISO 9001); Environment  (ISO 14001);
+2. Occupational Health & Safety (ISO 45001 & BS 8800);
+3. Food Safety & Hazard Analysis Critical Control Points (HACCP);
+4. Ethical Trading Practices (SA 8000); Social & Ethical Accounting,  Auditing and Reporting (AA 1000);
 5. Investor in People (IIP); Law Society  Practice Management Standard (LEXCEL), European Directives and CE  Markings;
-
-6. Information Security (BS 7799); 
-
-7. Quality System Requirements  for Automotive Industry Suppliers (ISO/TS 16949 & QS 9000); 
-
-8. Quality  System Requirements for Telecommunications Industry Suppliers (TL 9000); 
-
-9. and Business Excellence Model (BEM). 
+6. Information Security (BS 7799);
+7. Quality System Requirements  for Automotive Industry Suppliers (ISO/TS 16949 & QS 9000);
+8. Quality  System Requirements for Telecommunications Industry Suppliers (TL 9000);
+9. and Business Excellence Model (BEM).
 
 ## What would be possible quality goals?
 
@@ -456,45 +362,67 @@ Leadership and management processes are processes that ensure the company's goal
 
 ## Derive two activities to achieve the following quality goals.
 
-Goal 1: Optimize Sales 
+Goal 1: Optimize Sales
 
-​	Consider customer needs
+```
+Consider customer needs
+```
 
-​	Offer special functions and features 
+```
+Offer special functions and features
+```
 
-​	Improve after sales services to target groups 
+```
+Improve after sales services to target groups
+```
 
-​	Implement Customer relationship Management
-Goal 2: Developing new products or services 
+```
+Implement Customer relationship Management
+Goal 2: Developing new products or services
+```
 
-​	Market Analysis / SWOT Analysis  Conducting market research (questionnaire to your customer to find out their wishes and 		needs)
-​	Product and market test
+```
+Market Analysis / SWOT Analysis  Conducting market research (questionnaire to your customer to find out their wishes and 		needs)
+	Product and market test
+```
 
-Goal 3: 
+Goal 3:
 
-​	Improving communication between the departments in the company 
+```
+Improving communication between the departments in the company
+```
 
-​	Reporting system / Intranet (Introduction of an information system, for example, inhouse wiki, knowledge management)
-​	Constant information and communication about all changes 
+```
+Reporting system / Intranet (Introduction of an information system, for example, inhouse wiki, knowledge management)
+	Constant information and communication about all changes
+```
 
-​	Involvement of staff in the decision-making process
-Goal 4: 
+```
+Involvement of staff in the decision-making process
+Goal 4:
+```
 
-​	Improving customer satisfaction 
+```
+Improving customer satisfaction
+```
 
-​	Complaint management: recording the complaints of the customers 
+```
+Complaint management: recording the complaints of the customers
+```
 
-​	Determination of countermeasures (for example, better consulting services, more information and communication, 	involvement of customers in the service process, avoiding quality fluctuations, increasing services, etc.) Transparency
+```
+Determination of countermeasures (for example, better consulting services, more information and communication, 	involvement of customers in the service process, avoiding quality fluctuations, increasing services, etc.) Transparency
+```
 
-Goal 5: 
+Goal 5:
 
-Increasing employee satisfaction 
+Increasing employee satisfaction
 
-Creating a common thinking and a strong culture 
+Creating a common thinking and a strong culture
 
-Introduction of the business suggestion 
+Introduction of the business suggestion
 
-Create bonus systems for good performance 
+Create bonus systems for good performance
 
 Transparent business decisions and goals
 
