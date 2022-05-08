@@ -1,76 +1,49 @@
-# Quality Management——质量管理
+<!-- vscode-markdown-toc -->
+* 1. [1. Find a business model by using design thinking or lean startup](#Findabusinessmodelbyusingdesignthinkingorleanstartup)
+* 2. [2. Describe an lMS with the three management systems to your project.](#DescribeanlMSwiththethreemanagementsystemstoyourproject.)
+* 3. [3. Describe the structure of IMS](#DescribethestructureofIMS)
+* 4. [4. Quality Goals](#QualityGoals)
+* 5. [5. Model of a process-oriented QMS(according to standards)](#Modelofaprocess-orientedQMSaccordingtostandards)
+* 6. [6. Tools and instruments in QMS.](#ToolsandinstrumentsinQMS.)
+* 7. [7. Environmental aspects and principles](#Environmentalaspectsandprinciples)
+* 8. [8. Model of an Environmental Management Systemd. Safety Management System](#ModelofanEnvironmentalManagementSystemd.SafetyManagementSystem)
+* 9. [9. Goals in Safety Management System](#GoalsinSafetyManagementSystem)
+* 10. [10. what is quality?](#whatisquality)
+* 11. [11. Which principles are important in quality management?](#Whichprinciplesareimportantinqualitymanagement)
+* 12. [12. How has quality management developed over time?](#Howhasqualitymanagementdevelopedovertime)
+* 13. [13. What criticism is there for the traditional approach of management?](#Whatcriticismisthereforthetraditionalapproachofmanagement)
+* 14. [14. What are the tangible and intangible benefits in improving quality?](#Whatarethetangibleandintangiblebenefitsinimprovingquality)
+* 15. [15. Which three main contributions to quality management and quality improvement describes DEMING?](#WhichthreemaincontributionstoqualitymanagementandqualityimprovementdescribesDEMING)
+* 16. [16. Why do we need Standards?](#WhydoweneedStandards)
+* 17. [17. What does a certification according to ISO 9000 represents?](#WhatdoesacertificationaccordingtoISO9000represents)
+* 18. [18. How it looks the quality process according to ISO 9000?](#HowitlooksthequalityprocessaccordingtoISO9000)
+* 19. [19. What are the myths of Customer and Quality? Describe it](#WhatarethemythsofCustomerandQualityDescribeit)
+* 20. [20. What is the definition of quality planning?](#Whatisthedefinitionofqualityplanning)
+* 21. [21. What is the quality planning problem?](#Whatisthequalityplanningproblem)
+* 22. [22. What are the quality planning process?](#Whatarethequalityplanningprocess)
+* 23. [23. Describe each process with three aspects .](#Describeeachprocesswiththreeaspects.)
+* 24. [24. Describe following tools and techniques](#Describefollowingtoolsandtechniques)
+* 25. [25. Business Models with Lean StartUp Approach and Design Thinking](#BusinessModelswithLeanStartUpApproachandDesignThinking)
+* 26. [26. What is an Integrated Management System (IMS)?](#WhatisanIntegratedManagementSystemIMS)
+* 27. [27. What are the objectives of an IMS?](#WhataretheobjectivesofanIMS)
+* 28. [28. What distinguishes an IMS?](#WhatdistinguishesanIMS)
+* 29. [29. How can an IMS be described?](#HowcananIMSbedescribed)
+* 30. [30. What does an IMS look like for industrial companies?](#WhatdoesanIMSlooklikeforindustrialcompanies)
+* 31. [31. Which legal requirements have to be observed?](#Whichlegalrequirementshavetobeobserved)
+* 32. [32. What would be possible quality goals?](#Whatwouldbepossiblequalitygoals)
+* 33. [33. Derive two activities to achieve the following quality goals.](#Derivetwoactivitiestoachievethefollowingqualitygoals.)
+* 34. [34. Clarify this with the example of increased customer complaints](#Clarifythiswiththeexampleofincreasedcustomercomplaints)
 
-## content
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
 
-[ONE.CheckList](#CHECKLIST)
+# Quality Management
 
-1. [Find a business model by using design thinking or lean startup](#Find a business model by using design thinking or lean startup)
-
-2. [Describe an lMS with the three management systems to your project.](#Describe an lMS with the three management systems to your project.)
-
-3. [Describe the structure of IMS](#Describe the structure of IMS[)
-
-4. [Quality Goals](#Quality Goals)
-
-5. [Model of a process-oriented QMS(according to standards](#Model of a process-oriented QMS(according to standards))
-
-6. [Tools and instruments in QMS.](#Tools and instruments in QMS.)
-
-7. [Environmental aspects and principles](#Environmental aspects and principles)
-
-8. [Model of an Environmental Management Systemd. Safety Management System](#Model of an Environmental Management Systemd. Safety Management System)
-
-9. [Goals in Safety Management System](#Goals in Safety Management System)
-
-10. [what is quality?](#what is quality?)
-
-11. [Which principles are important in quality management?](#Which principles are important in quality management?)
-
-12. [How has quality management developed over time?](#How has quality management developed over time?)
-
-13. [What criticism is there for the traditional approach of management?](#What criticism is there for the traditional approach of management?)
-
-14. [What are the tangible and intangible benefits in improving quality?](#What are the tangible and intangible benefits in improving quality?)
-
-15. [Which three main contributions to quality management and quality improvement describes DEMING?](#Which three main contributions to quality management and quality improvement describes DEMING? )
-
-16. [Why do we need Standards?](#Why do we need Standards?)
-
-17. [What does a certification according to ISO 9000 represents?](#What does a certification according to ISO 9000 represents?)
-
-18. [How it looks the quality process according to ISO 9000?](#How it looks the quality process according to ISO 9000? )X
-
-19. [What are the myths of Customer and Quality? Describe it](#What are the myths of Customer and Quality? Describe it)
-
-20. [What is the definition of quality planning?](#What is the definition of quality planning?)
-
-21. [What is the quality planning problem? ](#What is the quality planning problem? )
-
-22. [What are the quality planning process?](#What are the quality planning process?)
-
-23. [Describe each process with three aspects .](#Describe each process with three aspects .)
-
-24. [Describe following tools and techniques](#Describe following tools and techniques)
-
-25. [Business Models with Lean StartUp Approach and Design Thinking](#Business Models with Lean StartUp Approach and Design Thinking)
-
-26. [What is an Integrated Management System (IMS)?](#What is an Integrated Management System (IMS)?)
-
-27. [What are the objectives of an IMS?](#What are the objectives of an IMS?)
-
-28. [What distinguishes an IMS?](#What distinguishes an IMS?)
-
-29. [How can an IMS be described?](#How can an IMS be described?)
-
-30. [What does an IMS look like for industrial companies?](#What does an IMS look like for industrial companies?)
-
-31. [Which legal requirements have to be observed?](#Which legal requirements have to be observed?)
-
-32. [What would be possible quality goals?](#What would be possible quality goals?)
-
-33. [Derive two activities to achieve the following quality goals.](#Derive two activities to achieve the following quality goals.)
-
-34. [Clarify this with the example of increased customer complaints](#Clarify this with the example of increased customer complaints)
+# Begin   
+Hello sir my name is SongZihui,I am going to discuss with you about quality management.....(quality goal).Fitst of all.It is 
 
 # mind Mapping
 
@@ -80,11 +53,11 @@
 
 ![img](https://user-images.githubusercontent.com/77034643/167252579-16102795-f027-4d4f-9987-00b1ba2b5a10.png)
 
-## Find a business model by using design thinking or lean startup
+##  1. <a name='Findabusinessmodelbyusingdesignthinkingorleanstartup'></a>1. Find a business model by using design thinking or lean startup
 
 For a example. If i have an good an good idea, I will start my project with Lean Startup,else I will start my project with design thinking. So If I choose first, I will incorporation(**yin kao po rui shen**) of user needs through early and continuous hypothesis(**hai pa ze sei si**) testing.As a result.My bussiness model will be a Robust & efficient & fastly gained business model, Central focus. If I choose behind,  I will incorporation of user needs with Qualitative methods.My bussiness model will be Testable prototype and no Central focus.In the last, I think open source community will become a widely business model for individual developer.
 
-## Describe an lMS with the three management systems to your project.
+##  2. <a name='DescribeanlMSwiththethreemanagementsystemstoyourproject.'></a>2. Describe an lMS with the three management systems to your project.
 
 **An Integrated(in te gui rui de) Management System (IMS)** integrates all of an organization’s systems and processes into one complete framework,  enabling an organization to work as a single unit with unified  objectives.
 
@@ -107,11 +80,11 @@ Third of all It is occupational(a kei pei shen nou) health management.[more deta
 2. TESLA ENGINEERING is keen to provide respectable Medical lnsurance of good coverage to all its staff.
 3. TESLA ENGINEERING is highly committed to the wellbeing of its stafl and to avoid all chronic and acute health  effects to staff and contractors.
 
-## Describe the structure of IMS
+##  3. <a name='DescribethestructureofIMS'></a>3. Describe the structure of IMS
 
 An Integrated(**in te gui rui de**) Management System (IMS) combines all aspects of an organisation’s systems, processes and Standards into one smart system. Like EMS add QMS add SMS.(IMS = EMS + QMS + SMS). The IMS describes the process-oriented structure of a company(leadership, core and supporting processes).
 
-## Quality Goals
+##  4. <a name='QualityGoals'></a>4. Quality Goals
 
 [more detail](https://teslaec.com/policy/3-quality-policy)
 
@@ -127,7 +100,7 @@ An Integrated(**in te gui rui de**) Management System (IMS) combines all aspects
 10. Make a profitable return on our activities in order to fund ongoing development and growth.
 11. lmprove efficiency through improvements in productivity.
 
-## Model of a process-oriented QMS(according to standards)
+##  5. <a name='Modelofaprocess-orientedQMSaccordingtostandards'></a>5. Model of a process-oriented QMS(according to standards)
 
 1. The model of a process-oriented QMS according to DIN EN ISO 9001: 2008 – CUSTOMER VIEW **P64**
 2. The model of a process-oriented QMS according to DIN EN ISO 9001: 2008 – MANUFACTURER VIEW **P65**
@@ -135,7 +108,7 @@ An Integrated(**in te gui rui de**) Management System (IMS) combines all aspects
 4. DIN EN ISO 9001: 2015 – “New” PDCA Cycle **P67**
 5. The model of a process-oriented QMS according to DIN EN ISO 9001: 2015 **P68**
 
-## Tools and instruments in QMS.
+##  6. <a name='ToolsandinstrumentsinQMS.'></a>6. Tools and instruments in QMS.
 
 The first is Kano-Model.We can use it to analyze expectations and requirements of the customer.And it contain with Basic factors Performance factors Enthusiasm(**en se si ya ze mu**) factors.The Kano-Model describes the relationship between requirements of customer and their satisfaction.
 
@@ -143,7 +116,7 @@ The second is Instruments for error detection  Collective error list (**P74**) a
 
 Ishikawa diagram(**P78**)
 
-## Environmental aspects and principles
+##  7. <a name='Environmentalaspectsandprinciples'></a>7. Environmental aspects and principles
 
 For the EMS the standards families ISO 14000 and EMAS (Eco-Management and Audit Scheme) are used.
 EMAS is valid within the EU, while ISO 14001 is valid worldwide. EMAS regulations are stricter(**si zhuai ke te**).
@@ -154,18 +127,18 @@ Principle of precautionary(**po ka  shen nai rui**) (Vorsorgeprinzip)
 Principle of welfare (**wao rui fei er**)(Fürsorgeprinzip)
 Principle of cooperation
 
-## Model of an Environmental Management Systemd. Safety Management System
+##  8. <a name='ModelofanEnvironmentalManagementSystemd.SafetyManagementSystem'></a>8. Model of an Environmental Management Systemd. Safety Management System
 
 1. Representation of the EMS according to EMAS **P88**
 2. Representation of the EMS according to EMAS **P89**
 
-## Goals in Safety Management System
+##  9. <a name='GoalsinSafetyManagementSystem'></a>9. Goals in Safety Management System
 
 The objective of a Safety Management System is to provide a structured  management approach to control safety risks in operations. Effective safety managementmust take into account the organisation’s specific structures and processes related to safety of operations.
 
 [about sms](https://www.faa.gov/about/initiatives/sms/explained/components)
 
-# what is quality?
+##  10. <a name='whatisquality'></a>10. what is quality?
 
 Quality refers to how good something is compared to other similar things. In other words, its degree of excellence(**ai ke se len si**).
 
@@ -174,7 +147,7 @@ The nature of goods and services describes this term. Quality products have no d
 DIN EN ISO 8402 describes quality as the totality of features of a unit in terms of their suitability(**sui te bi le ti**) to meet specified requirements. This type of quality is standardized by
 means of a QMS, so that the quality is secured permanently.
 
-## Which principles are important in quality management?
+##  11. <a name='Whichprinciplesareimportantinqualitymanagement'></a>11. Which principles are important in quality management?
 
 1. Customer focus
 2. Leadership
@@ -186,7 +159,7 @@ means of a QMS, so that the quality is secured permanently.
 
 [相关页面](https://www.paldesk.com/7-core-principles-of-quality-management/#:~:text=What%20are%20the%20Core%20Principles%20of%20Quality%20Management%3F,initiatives%20are%20beneficial%20for%20at%20least%20two%20reasons.)
 
-## How has quality management developed over time?
+##  12. <a name='Howhasqualitymanagementdevelopedovertime'></a>12. How has quality management developed over time?
 
 [相关页面](https://asq.org/quality-resources/history-of-quality)
 
@@ -197,11 +170,11 @@ means of a QMS, so that the quality is secured permanently.
 5. The Development of Total Quality Management
 6. Beyond Total Quality Management
 
-## What criticism is there for the traditional approach of management?
+##  13. <a name='Whatcriticismisthereforthetraditionalapproachofmanagement'></a>13. What criticism is there for the traditional approach of management?
 
 ？
 
-## What are the tangible and intangible benefits in improving quality?
+##  14. <a name='Whatarethetangibleandintangiblebenefitsinimprovingquality'></a>14. What are the tangible and intangible benefits in improving quality?
 
 Tangible(**tan zhe bou**) benefit ：
 
@@ -220,7 +193,7 @@ intangible(**in tan zhe bou**) benefits：
 
 [相关页面](https://www.wisdomjobs.com/e-university/quality-management-tutorial-363/intangible-benefits-12231.html)
 
-## Which three main contributions to quality management and quality improvement describes DEMING?
+##  15. <a name='WhichthreemaincontributionstoqualitymanagementandqualityimprovementdescribesDEMING'></a>15. Which three main contributions to quality management and quality improvement describes DEMING?
 
 1. Create constancy(**kang si ten sei**) of purpose for improvement of product and service.
 2. Adopt the new philosophy(**fo la se fei**)
@@ -237,19 +210,19 @@ intangible(**in tan zhe bou**) benefits：
 13. Institute a vigorous(**vi ge rao si**) program of education and self-improvement for everyone
 14. Put everyone in the company to work to accomplish the transformation.
 
-## Why do we need Standards?
+##  16. <a name='WhydoweneedStandards'></a>16. Why do we need Standards?
 
 Standards are needed to assure safety of products, to ensure that products and  materials are tailored-made for their purpose, promote the  interoperability(**in te rua pu a bi le ti**) of products and services, facilitate(**fo se le ti de**) trade by removing  trade barriers, promote common understanding of a product.
 
-## What does a certification according to ISO 9000 represents?
+##  17. <a name='WhatdoesacertificationaccordingtoISO9000represents'></a>17. What does a certification according to ISO 9000 represents?
 
 The main purpose of the ISO 9000 standard is to provide a time-tested  framework to help companies establish and follow a systematic approach  for managing organizational processes for rendering consistent quality.
 
-## How it looks the quality process according to ISO 9000?
+##  18. <a name='HowitlooksthequalityprocessaccordingtoISO9000'></a>18. How it looks the quality process according to ISO 9000?
 
 more detail
 
-## What are the myths of Customer and Quality? Describe it
+##  19. <a name='WhatarethemythsofCustomerandQualityDescribeit'></a>19. What are the myths of Customer and Quality? Describe it
 
 1. Understand the needs  of existing and future customers
 2. Align organizational  objectives with customer needs and expectations
@@ -259,23 +232,23 @@ more detail
 6. Aim to exceed  customer expectations
 7. Learn more about the [customer  experience](https://asq.org/quality-resources/customer-experience) and customer  satisfaction
 
-## What is the definition of quality planning?
+##  20. <a name='Whatisthedefinitionofqualityplanning'></a>20. What is the definition of quality planning?
 
 “Quality planning,” as used here, is a structured process for developing products (both goods and services) that ensures that customer needs are met by the final result.
 
-## What is the quality planning problem?
+##  21. <a name='Whatisthequalityplanningproblem'></a>21. What is the quality planning problem?
 
 1. The first component(**can pou nen te**) of the quality gap is the understanding gap, that is, lack of understanding of what the customer needs.
 2. The second constituent of the quality gap is a design gap.
 3. The third gap is the process gap.
 4. The fourth gap is the operations gap.
 
-## What are the quality planning process?
+##  22. <a name='Whatarethequalityplanningprocess'></a>22. What are the quality planning process?
 
 In this step of the quality planning process, we will focus on the role of quality in product development and how that role combines with the technical aspects of development and design appropriate for a particular industry. Within product development, product design is a creative process based largely on technological or
 functional expertise.
 
-## Describe each process with three aspects .
+##  23. <a name='Describeeachprocesswiththreeaspects.'></a>23. Describe each process with three aspects .
 
 **Identify Controls Needed**
 
@@ -305,7 +278,7 @@ functional expertise.
 
 **Implement Plan and Validate Transfer**
 
-# Describe following tools and techniques
+##  24. <a name='Describefollowingtoolsandtechniques'></a>24. Describe following tools and techniques
 
 **Cost-Benefit Analysis**
 
@@ -348,9 +321,7 @@ good tool to show the workflow of the project and it can help effectively plan a
 One of the most important sub processes performed during the quality assurance process is the quality audit. According to the PMBOK Guide, the quality audit is an independent review conducted by internal or external auditors. The quality audit can be performed on a regularly scheduled basis or an ad hoc basis. The audit is a structured review of quality management activities to identify good or best practices and lessons learned for use
 on current or future projects.
 
-# PPT
-
-# Business Models with Lean StartUp Approach and Design Thinking
+##  25. <a name='BusinessModelswithLeanStartUpApproachandDesignThinking'></a>25. Business Models with Lean StartUp Approach and Design Thinking
 
 ![image-20220506210841403](https://user-images.githubusercontent.com/77034643/167244769-d4dfb751-a138-432d-95dd-4fe6b28cc8bc.png)
 
@@ -359,7 +330,7 @@ on current or future projects.
 • Both approaches have strengths and weaknesses – which one is applied depends on the
 situation (e.g. whether a founder is visionary or a problem-solver etc.).
 
-### What is an Integrated Management System (IMS)?
+##  26. <a name='WhatisanIntegratedManagementSystemIMS'></a>26. What is an Integrated Management System (IMS)?
 
 The introduction of an Integrated(**in te ge rui di de**) Management System (IMS) follows this management process: analysis, planning, realization and control. This means that the framework conditions must be analyzed for the introduction of an IMS,
 the steps for its introduction planned, and then implemented and controlled.
@@ -370,27 +341,27 @@ Integrative MS connect different MS with each other:
 The IMS describes the process-oriented structure of a company. It incorporates the quality standard, the environmental management standard and occupational
 safety into the company processes.
 
-### What are the objectives of an IMS?
+##  27. <a name='WhataretheobjectivesofanIMS'></a>27. What are the objectives of an IMS?
 
 1. Increase the efficiency of company processes
 2. Establishment of a flexible management system
 3. Cost and time savings (Double processes should be detoxified)
 4. Minimizing product liability risk
 
-### What distinguishes an IMS?
+##  28. <a name='WhatdistinguishesanIMS'></a>28. What distinguishes an IMS?
 
 The term "Integrated Management Systems" refers to the close interaction of the individual MS.
 Integrative MS connect different MS with each other
 
 ![image-20220506212916369](https://user-images.githubusercontent.com/77034643/167244771-ea632b40-41ab-47ee-bc1b-358444708b93.png)
 
-### How can an IMS be described?
+##  29. <a name='HowcananIMSbedescribed'></a>29. How can an IMS be described?
 
 The IMS describes the process-oriented structure of a company. It incorporates the quality standard, the environmental management standard and occupational safety into the company processes.
 The process-oriented structure is divided into leadership, core and supporting processes in the IMS Handbook.
 Leadership and management processes are processes that ensure the company's goal.
 
-### What does an IMS look like for industrial companies?
+##  30. <a name='WhatdoesanIMSlooklikeforindustrialcompanies'></a>30. What does an IMS look like for industrial companies?
 
 1. Supply chain processes
 2. Production/ Manufacturing processes
@@ -399,7 +370,7 @@ Leadership and management processes are processes that ensure the company's goal
 
    etc.
 
-### Which legal requirements have to be observed?
+##  31. <a name='Whichlegalrequirementshavetobeobserved'></a>31. Which legal requirements have to be observed?
 
 1. Quality (ISO 9001); Environment  (ISO 14001);
 2. Occupational Health & Safety (ISO 45001 & BS 8800);
@@ -411,7 +382,7 @@ Leadership and management processes are processes that ensure the company's goal
 8. Quality  System Requirements for Telecommunications Industry Suppliers (TL 9000);
 9. Business Excellence Model (BEM).
 
-## What would be possible quality goals?
+##  32. <a name='Whatwouldbepossiblequalitygoals'></a>32. What would be possible quality goals?
 
 1. Optimize Sales
 2. Developing new products or services
@@ -420,7 +391,7 @@ Leadership and management processes are processes that ensure the company's goal
 5. Increasing employee satisfaction
 
 
-## Derive two activities to achieve the following quality goals.
+##  33. <a name='Derivetwoactivitiestoachievethefollowingqualitygoals.'></a>33. Derive two activities to achieve the following quality goals.
 
 Goal 1: Optimize Sales
 
@@ -470,6 +441,5 @@ Goal 5:
 
 ​	Offer personnel development measures
 
-## Clarify this with the example of increased customer complaints
+##  34. <a name='Clarifythiswiththeexampleofincreasedcustomercomplaints'></a>34. Clarify this with the example of increased customer complaints
 
-?
