@@ -1,3 +1,4 @@
+[Quality Management](#quality-management)
 - [Quality Management](#quality-management)
 - [Begin](#begin)
 - [mind Mapping](#mind-mapping)
@@ -36,11 +37,13 @@
 	- [32. What would be possible quality goals?](#32-what-would-be-possible-quality-goals)
 	- [33. Derive two activities to achieve the following quality goals.](#33-derive-two-activities-to-achieve-the-following-quality-goals)
 	- [34. Clarify this with the example of increased customer complaints](#34-clarify-this-with-the-example-of-increased-customer-complaints)
+	- [35. Audits](#35-audits)
+	- [36. The Use of IMS](#36-the-use-of-ims)
 
 # Quality Management
 
 # Begin      
-Hello sir, My name is SongZihui,I am going to discuss with you about quality management.....(quality goal).(I write is in the ppt, but I have another idea about it.)Fitst of all. It is Deliver on-time and on-quality products to customs.Second of all, It is lncrease the motivation and skills of  our people to add value to our customers and our businesses, through  continual training and development.Third of all.I think it is Enable and engage our people at all levels in a relentless drive to improve operational performance along the value chain from suppliers to customers.
+Hello sir, My name is SongZihui,I am going to discuss with you about quality management.....(quality goal).(I write is in the ppt, but I have another idea about it.)Fitst of all. It is Deliver on-time and on-quality products to customs.Second of all, It is lncrease themotivation  and skills of  our people to add value to our customers and our businesses, through  continual training and development.Third of all.I think it is Enable and engage our people at all levels in a relentless drive to improve operational performance along the value chain from suppliers to customers.
 **how to make quality goal**   
 1. According to customer complaints and quality inspection, We can improve the quality of the product.
 2. We get some lesson form faliure.(example After many failures, space x has realized high-tech such as rocket recovery).   
@@ -98,7 +101,9 @@ or QMS
 
 same up
 
-An Integrated(**in te gui rui de**) Management System (IMS) combines all aspects of an organisation’s systems, processes and Standards into one smart system. Like EMS add QMS add SMS.(IMS = EMS + QMS + SMS). The IMS describes the process-oriented structure of a company(leadership, core and supporting processes).
+An Integrated(**in te gui rui de**) Management System (IMS) combines all aspects of an organisation’s systems, processes and Standards into one smart system. Like EMS add QMS add SMS.(IMS = EMS + QMS + SMS). The IMS describes the process-oriented structure of a company(leadership, core and supporting processes).   
+Management, experts, R & D, production, procurement and sales
+The R & D consists of QM, SM and em    
 
 ## 4. Quality Goals
 
@@ -520,3 +525,18 @@ Goal 5:
 
 ## 34. Clarify this with the example of increased customer complaints
 Customer complaints are pieces of feedback that point out problems with your company's product or services. These are opportunities for your business to improve its internal processes and create a better customer expe
+
+## 35. Audits
+Product audits、Process audits、System audits     
+Internal and external audits
+Audits  Audits for the evaluation of Management Systems  The term audit is derived from the Latin word "auditus" for "hearing" and is today mostly used in the sense of external or internal evaluation of products, processes or systems in a company. Audits are used in quality, environmental and safety management. An audit serves the analysis of the actual state or a comparison with previously defined goals.
+ The standard ISO 19011 is the guideline for audits of quality and environmental Management Systems.
+ In ISO 19011, the term audit is defined as a "systematic, independent and documented process for obtaining audit evidence and its objective evaluation to
+determine the extent to which the audit criteria are met".  
+Internal and external audits  Companies can voluntarily conduct internal or external audits.  Internal audits (first party audits) are conducted by the company on behalf of the company to check the processes or management. They can form the basis for the company's own declaration of conformity and can also be provided in preparation for external audits.
+ External audits (second or third party audits) are not provided by the company itself but by other organizations. Second party audits are initiated by parties that have a legitimate interest in the company (usually from other companies in the process chain). Third party audits are conducted by external independent organizations to obtain certification for the company according to the
+requirements of a particular standard.  
+## 36. The Use of IMS
+In most medium and larger companies, IMS are used to improve and refine their processes.    
+If a company uses IMS, then all employees of the company must be involved in the processes. The management bears a special responsibility of an MS. 
+  
