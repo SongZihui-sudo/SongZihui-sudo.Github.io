@@ -26,8 +26,8 @@
 
 [文本编辑器设计--TabNine客户端的开发](./Design&Optimization/文本编辑器设计--TabNine客户端的开发.md)  
 [文本编辑器设计————01编辑器的结构](./Design&Optimization/文本编辑器设计————01编辑器的结构.md)     
-[Vscode插件开发的小总结](./Design&Optimization/Vscode插件开发的小总结.md)
-[实现一个简单的8位加法器](./Design%26Optimization/8位加法器的电路设计.md)
+[Vscode插件开发的小总结](./Design&Optimization/Vscode插件开发的小总结.md)   
+[实现一个简单的8位加法器](./Design%26Optimization/8位加法器的电路设计.md)   
 
 ---
 > 机械 
